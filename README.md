@@ -1,15 +1,15 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
-http://picapaunet.top:80/live/520834541/697689953/523673.ts
+http://srv.hostinggon.xyz:2082/live/Xplus-1-tqEijlo43x/0E5WFqG5JF/547.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://picapaunet.top:80/live/520834541/697689953/525174.ts
+http://srv.hostinggon.xyz:2082/live/Xplus-1-tqEijlo43x/0E5WFqG5JF/504.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
-http://picapaunet.top:80/live/520834541/697689953/523305.ts
+http://srv.hostinggon.xyz:2082/live/Xplus-1-tqEijlo43x/0E5WFqG5JF/532.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
-http://picapaunet.top:80/live/520834541/697689953/523145.ts
+http://srv.hostinggon.xyz:2082/live/Xplus-1-tqEijlo43x/0E5WFqG5JF/540.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
-http://picapaunet.top:80/live/520834541/697689953/523229.ts
+http://srv.hostinggon.xyz:2082/live/Xplus-1-tqEijlo43x/0E5WFqG5JF/527.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
 http://84.16.252.211:2082/live/Xplus-1-nheNuLxwXv/v8Uq3YMDK8/82.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
