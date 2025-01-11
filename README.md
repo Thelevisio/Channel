@@ -5,7 +5,7 @@ http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/547.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
 https://embedcanaistv.club/globorj/video.m3u8
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/532.ts
+https://www.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=ErqBWfHxmG425XWuKiANDZq1kCo9RyDCq3pZ2qqm0PPCS6rMr1OwLu827WW9W_olJDGcV4TxMBMyZB_lg6sA7Q&dmTs=413280&dmV1st=dcc5ed38-6fd8-766b-06ff-415671c908cf
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/540.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
