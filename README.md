@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/547.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/504.ts
+	https://embedcanaistv.club/globorj/video.m3u8
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/532.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
