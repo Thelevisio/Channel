@@ -9,7 +9,7 @@ http://picapaunet.top:80/live/520834541/697689953/523306.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://picapaunet.top:80/live/520834541/697689953/523145.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/540.ts
+http://picapaunet.top:80/live/520834541/697689953/523230.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/82.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
