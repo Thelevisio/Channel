@@ -131,7 +131,7 @@ http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/74.ts
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png"  group-title="VARIEDADES",DISCOVERY WORLD
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/78.ts
 #EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://www.dogtv.com/hubfs/DOGTVFeatured-1.jpg" group-title="VARIEDADES",DOG TV
-http://picapaunet.top:80/live/520834541/697689953/523737.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45882.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="VARIEDADES",E!
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/103.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://www.oi.com.br/publicV2/channels/gnt.png" group-title="VARIEDADES",GNT 
