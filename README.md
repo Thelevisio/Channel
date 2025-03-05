@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TV BRASIL" tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png" group-title="ABERTOS",TV BRASIL
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/263.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/259.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45803.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/259.ts
 #EXTINF:-1 tvg-name="BAND " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Rede_Bandeirantes_2007.png" group-title="ABERTOS",BAND
