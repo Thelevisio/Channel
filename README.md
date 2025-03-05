@@ -16,8 +16,6 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/290.ts
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/33.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/31.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/121.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
