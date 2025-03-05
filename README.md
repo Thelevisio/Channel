@@ -17,43 +17,39 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/33.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/31.ts
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/121.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/387.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/123.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/353.ts
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/131.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/364.ts
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 2
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/135.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/367.ts
 #EXTINF:-1 tvg-name="ESPN 3 " tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 3 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/126.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/360.ts
 #EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 4
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/143.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="ESPORTES",ESPN 5
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/140.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/375.ts
 #EXTINF:-1 tvg-name="PREMIERE 1" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 1
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/164.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/719.ts
 #EXTINF:-1 tvg-name="PREMIERE 2" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 2
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/150.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/702.ts
 #EXTINF:-1 tvg-name="PREMIERE 3" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 3
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/152.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/706.ts
 #EXTINF:-1 tvg-name="PREMIERE 4" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 4
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/155.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/707.ts
 #EXTINF:-1 tvg-name="PREMIERE 5" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 5
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/156.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/711.ts
 #EXTINF:-1 tvg-name="PREMIERE 6" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 6
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/158.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/713.ts
 #EXTINF:-1 tvg-name="PREMIERE 7" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 7
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/160.ts
-#EXTINF:-1 tvg-name="PREMIERE 8" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.png" group-title="ESPORTES",PREMIERE 8
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/162.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/715.ts
 #EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 1
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/183.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/744.ts
 #EXTINF:-1 tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 2
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/172.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/738.ts
 #EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 3 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/175.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/741.ts
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="FILMES E SERIES",AXN 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/233.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/233.ts
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://www.oi.com.br/publicV2/channels/comedy-central.png" group-title="FILMES E SERIES",COMEDY CENTRAL 
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/98.ts
 #EXTINF:-1 tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="FILMES E SERIES",CANAL BRASIL 
