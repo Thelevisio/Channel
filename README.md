@@ -13,11 +13,11 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/313.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/290.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/82.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/33.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/81.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/31.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://mondrian.claro.com.br/brands/channels/national-geographic.png" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/88.ts
+
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-sports.png" group-title="ESPORTES",BAND SPORTS
 http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/121.ts
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="ESPORTES",COMBATE
