@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TV BRASIL" tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png" group-title="ABERTOS",TV BRASIL
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/263.ts
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45803.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/259.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/259.ts
 #EXTINF:-1 tvg-name="BAND " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Rede_Bandeirantes_2007.png" group-title="ABERTOS",BAND
@@ -49,94 +49,90 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/738.ts
 #EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="ESPORTES",SPORTV 3 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/741.ts
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="FILMES E SERIES",AXN 
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/233.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/425.ts
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://www.oi.com.br/publicV2/channels/comedy-central.png" group-title="FILMES E SERIES",COMEDY CENTRAL 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/98.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/758.ts
 #EXTINF:-1 tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="FILMES E SERIES",CANAL BRASIL 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/237.ts
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://www.oi.com.br/publicV2/channels/fx.png" group-title="FILMES E SERIES",FX
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/244.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45880.ts
 #EXTINF:-1 tvg-name="MEGAPIX" tvg-logo="https://www.oi.com.br/publicV2/channels/megapix.png" group-title="FILMES E SERIES",MEGAPIX 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/271.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/449.ts
 #EXTINF:-1 tvg-name="SPACE" tvg-logo="https://mondrian.claro.com.br/brands/channels/space.png" group-title="FILMES E SERIES",SPACE 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/278.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/459.ts
 #EXTINF:-1 tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="FILMES E SERIES",SONY CHANNEL 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/238.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/455.ts
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.oi.com.br/publicV2/channels/tnt.png" group-title="FILMES E SERIES",TNT
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/313.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/470.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/702px-Universal_Channel_Brasil.svg.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/319.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/476.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://www.oi.com.br/publicV2/channels/hbo.png" group-title="FILMES",HBO
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/255.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/601.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://www.oi.com.br/publicV2/channels/hbo-2.png" group-title="FILMES",HBO 2
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/248.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/595.ts
 #EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://www.oi.com.br/publicV2/channels/hbo-plus.png" group-title="FILMES",HBO PLUS 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/245.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/607.ts
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://www.oi.com.br/publicV2/channels/hbo-family.png" group-title="FILMES",HBO FAMILY
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/253.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/598.ts
 #EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="FILMES",HBO SIGNATURE 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/262.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/613.ts
 #EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/a/ad/HBOXtremeLA2020.png" group-title="FILMES",HBO Xtreme 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/267.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/616.ts
 #EXTINF:-1 tvg-name="TELECINE PREMIUM" tvg-logo="https://www.claro.com.br/files/104379/266x177/f770714f37/img-telecine-premium.jpg" group-title="FILMES",TELECINE PREMIUM 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/307.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/810.ts
 #EXTINF:-1 tvg-name="TELECINE ACTION" tvg-logo="https://www.claro.com.br/files/104379/266x177/dd28ffe9a7/img-telecine-action.jpg" group-title="FILMES",TELECINE ACTION 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/295.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/799.ts
 #EXTINF:-1 tvg-name="TELECINE TOUCH" tvg-logo="https://www.claro.com.br/files/104379/266x177/0fb98729b3/img-telecine-touch.jpg" group-title="FILMES",TELECINE TOUCH 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/310.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/813.ts
 #EXTINF:-1 tvg-name="TELECINE FUN" tvg-logo="https://www.claro.com.br/files/104379/266x177/4badcae4be/img-telecine-fun.jpg" group-title="FILMES",TELECINE FUN 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/301.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/805.ts
 #EXTINF:-1 tvg-name="TELECINE PIPOCA" tvg-logo="https://www.claro.com.br/files/104379/266x177/4a5f4fa455/img-telecine-pipoca.jpg" group-title="FILMES",TELECINE PIPOCA 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/304.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/807.ts
 #EXTINF:-1 tvg-name="TELECINE CULT" tvg-logo="https://www.claro.com.br/files/104379/266x177/a3a3e85822/img-telecine-cult.jpg" group-title="FILMES",TELECINE CULT 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/298.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/802.ts
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoonito_com_nome.png" group-title="INFANTIL",CARTOONITO
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/345.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/623.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/347.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/626.ts
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-kids.png" group-title="INFANTIL", DISCOVERY KIDS 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/349.ts
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://www.oi.com.br/publicV2/channels/disney-channel.png" group-title="INFANTIL",DISNEY CHANNEL 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/352.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/629.ts
 #EXTINF:-1 tvg-name="GLOOB" tvg-logo="https://www.oi.com.br/publicV2/channels/gloob.png" group-title="INFANTIL",GLOOB 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/358.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/640.ts
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://www.oi.com.br/publicV2/channels/nickelodeon-hd.png" group-title="INFANTIL",NICKELODEON 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/768.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/650.ts
 #EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIL",NICK JR
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/364.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/647.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/557.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/665.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/831.ts
+http://wolftkxz.xyz:80/live/leonardo1313/886390405/18014.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
-http://studioopera.in:80/live/27996878506matildes2/m4rupnw1cv/426.ts
+http://wolftkxz.xyz:80/live/leonardo1313/886390405/1828840.ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/225.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/419.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/61.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/2.ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-channel.png" group-title="VARIEDADES",DISCOVERY CHANNEL 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/65.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/5.ts
 #EXTINF:-1 tvg-name="DISCOVERY HOME&HEALTH " tvg-logo="https://www.oi.com.br/publicV2/channels/home-health.png" group-title="VARIEDADES",DISCOVERY HOME&HEALTH
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/68.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/8.ts
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-science.png" group-title="VARIEDADES",DISCOVERY SCIENCE 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/72.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/11.ts
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-theater.png" group-title="VARIEDADES",DISCOVERY THEATER 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/74.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/14.ts
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png"  group-title="VARIEDADES",DISCOVERY WORLD
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/78.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/23.ts
 #EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://www.dogtv.com/hubfs/DOGTVFeatured-1.jpg" group-title="VARIEDADES",DOG TV
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45882.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="VARIEDADES",E!
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/103.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/763.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://www.oi.com.br/publicV2/channels/gnt.png" group-title="VARIEDADES",GNT 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/107.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/767.ts
 #EXTINF:-1 tvg-name="MULTISHOW" tvg-logo="https://www.oi.com.br/publicV2/channels/multishow.png" group-title="VARIEDADES",MULTISHOW
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/423.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/775.ts
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv.png" group-title="VARIEDADES",MTV
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/422.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/790.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://www.oi.com.br/publicV2/channels/tlc.png" group-title="VARIEDADES",TLC 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/92.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/17.ts
 #EXTINF:-1 tvg-name="VIVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png" group-title="VARIEDADES",VIVA 
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/114.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/786.ts
 #EXTINF:-1 tvg-name="WARNER CHANNEL" tvg-logo="https://www.oi.com.br/publicV2/channels/warner.png" group-title="VARIEDADES",WARNER CHANNEL
-http://srv.hostinggon.xyz:2082/live/Tourobox1-Opk1FFyYZb/SgRmPRr6nX/320.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/480.ts
