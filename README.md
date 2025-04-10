@@ -91,7 +91,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/802.ts
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoonito_com_nome.png" group-title="INFANTIL",CARTOONITO
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/623.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://www.oi.com.br/publicV2/channels/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/626.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/627.ts
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://www.oi.com.br/publicV2/channels/discovery-kids.png" group-title="INFANTIL", DISCOVERY KIDS 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/629.ts
 #EXTINF:-1 tvg-name="GLOOB" tvg-logo="https://www.oi.com.br/publicV2/channels/gloob.png" group-title="INFANTIL",GLOOB 
@@ -103,7 +103,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/647.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/665.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
-http://wolftkxz.xyz:80/live/leonardo1313/886390405/18014.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/65331.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
 http://wolftkxz.xyz:80/live/leonardo1313/886390405/1828840.ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
