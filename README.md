@@ -11,7 +11,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/248.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/313.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/290.ts
+http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/5564873.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/default/history-channel.png" group-title="CULTURA",HISTORY CHANNEL
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/33.ts
 #EXTINF:-1 tvg-name="HISTORY CHANNEL2" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-channel-2.png" group-title="CULTURA",HISTORY CHANNEL2
@@ -103,9 +103,9 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/647.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/665.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/65331.ts
+
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
-http://wolftkxz.xyz:80/live/leonardo1313/886390405/1828840.ts
+
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/419.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
@@ -125,7 +125,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/45882.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="VARIEDADES",E!
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/763.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://www.oi.com.br/publicV2/channels/gnt.png" group-title="VARIEDADES",GNT 
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/767.ts
+http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/5564684.ts
 #EXTINF:-1 tvg-name="MULTISHOW" tvg-logo="https://www.oi.com.br/publicV2/channels/multishow.png" group-title="VARIEDADES",MULTISHOW
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/775.ts
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv.png" group-title="VARIEDADES",MTV
