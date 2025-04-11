@@ -103,9 +103,9 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/647.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/665.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
-
+http://cdn7light.xyz:80/live/nezsfqmu/deu7jili/317840.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
-
+http://cdn7light.xyz:80/live/nezsfqmu/deu7jili/317838.ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/419.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
