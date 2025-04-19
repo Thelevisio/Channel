@@ -97,7 +97,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/629.ts
 #EXTINF:-1 tvg-name="GLOOB" tvg-logo="https://www.oi.com.br/publicV2/channels/gloob.png" group-title="INFANTIL",GLOOB 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/640.ts
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://www.oi.com.br/publicV2/channels/nickelodeon-hd.png" group-title="INFANTIL",NICKELODEON 
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/650.ts
+http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/13907.ts
 #EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIL",NICK JR
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/647.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
