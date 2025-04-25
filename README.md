@@ -7,7 +7,7 @@ http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/251553.ts
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/141394.ts
 #EXTINF:-1 tvg-name="BAND " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Rede_Bandeirantes_2007.png" group-title="ABERTOS",BAND
-https://cdn-brisanet.cportal.com.br/BANDEIRANT/DASH/stream.mpd
+http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/5564805.ts
 #EXTINF:-1 tvg-name="SBT " tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.png" group-title="ABERTOS",SBT
 http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/348268.ts
 #EXTINF:-1 tvg-name="RECORD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.png" group-title="ABERTOS",REDE RECORD
