@@ -59,7 +59,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/450.ts
 #EXTINF:-1 tvg-name="SPACE" tvg-logo="https://mondrian.claro.com.br/brands/channels/space.png" group-title="FILMES E SERIES",SPACE 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/459.ts
 #EXTINF:-1 tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="FILMES E SERIES",SONY CHANNEL 
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/456.ts
+http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/141444.ts
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.oi.com.br/publicV2/channels/tnt.png" group-title="FILMES E SERIES",TNT
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/474.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/702px-Universal_Channel_Brasil.svg.png" group-title="FILMES E SERIES",UNIVERSAL TV
@@ -97,7 +97,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/662.ts
 #EXTINF:-1 tvg-name="GLOOB" tvg-logo="https://www.oi.com.br/publicV2/channels/gloob.png" group-title="INFANTIL",GLOOB 
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/641.ts
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://www.oi.com.br/publicV2/channels/nickelodeon-hd.png" group-title="INFANTIL",NICKELODEON 
-http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/13907.ts
+http://br77.us:80/live/MARCELOQUIRINO.SITIO1/MQ138236@/5564778.ts
 #EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="INFANTIL",NICK JR
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/648.ts
 #EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://www.oi.com.br/publicV2/channels/tv-ra-tim-bum.png" group-title="INFANTIL",TV RA TIM BUM 
