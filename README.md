@@ -105,7 +105,7 @@ http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/666.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE" tvg-logo="https://www.oi.com.br/publicV2/channels/mtv-live.png" group-title="MUSICA",MTV LIVE
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/65331.ts
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-768x576.jpg" group-title="MUSICA",MTV 00s
-https://s.tivix.co/175/index.m3u8
+https://strm.yandex.ru/vod/vh-canvas-converted/vod-content/1134996796026806506/f36b1304-a424-4225-bab6-6bcb2a9d164e/kaltura/desc_edfa32919c6ae91817126cca6e8f1f4c/vAME9y3JegFU/manifest.mpd?vsid=7bb5060bfbbedc783aed59baa4f8fb768e0f9eb982f2xVASx9133x1747167969&t=1747167980203
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="VARIEDADES",A&E
 http://voz.one:80/live/playtvsf0nt3/7myPCcXChaUe/420.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.oi.com.br/publicV2/channels/animal-planet.png" group-title="VARIEDADES",ANIMAL PLANET
